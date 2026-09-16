@@ -1,6 +1,8 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
+  background-color: #ffffff;
+  color: #222222;
 }
 
 header {
@@ -8,21 +10,22 @@ header {
 }
 
 nav {
-  background-color: #2b6cb0;
+  background-color: #e2e8f0;
 }
 
 main {
-  background-color: #f7fafc;
+  background-color: #ffffff;
   font-size: 18px;
 }
 
 footer {
-  background-color: #2d3748;
+  background-color: #edf2f7;
+  color: #1a202c;
 }
 
 li {
   display: inline-block;
-  width: 120px;
+  width: 140px;
 }
 
 h1 {
